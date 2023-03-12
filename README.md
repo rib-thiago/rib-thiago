@@ -32,7 +32,7 @@
 
 ## Atualmente estou aprendendo sobre...
 
-- Fluxos de Desenvolvendo aplicativos usando a MEAN (MongoDB, Express, React, Node) e a MERN (MongoDB, Express, React, Node) stacks
+- Fluxos de Desenvolvimento fr aplicativos usando a MEAN (MongoDB, Express, React, Node) e a MERN (MongoDB, Express, React, Node) stacks
 
 - Automação usando Shell Script
 
