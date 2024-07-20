@@ -12,7 +12,6 @@
 - Processamento de Linguagem Natural
 - Tecnologias de Reconhecimento Óptico de Caracteres (OCR)
 - Orientação a Objetos e Design de Padrões
-- Modelagem de Dados
 
 💻 **Projetos Atuais:**
 
