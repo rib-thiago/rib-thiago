@@ -22,15 +22,7 @@
 
 - **Linguagens:** Python, Bash
 - **Banco de Dados:** MongoDB
-- **Bibliotecas:**
-    - **Backend:** Flask
-    - **Manipulação de PDF:** PyPDF2
-    - **Manipulação de Imagens:** OpenCV
-    - **Processamento de Linguagem Natural:** NLTK, SpaCy, TextBlob
-- **Ferramentas:**
-    - **GNU Core Utilities:** Ferramentas Unix essenciais no Linux
-    - **OCR:** Tesseract para extração de texto a partir e imagens
-    - **Serviços de Tradução:** Google Translate API
+- **Ferramentas:** GNU Core Utilities, Tesseract (OCR)
 
 📫 **Como me Encontrar:**
 
